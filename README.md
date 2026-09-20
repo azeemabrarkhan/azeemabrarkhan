@@ -1,10 +1,10 @@
 # Hi, I'm Azeem Abrar Khan 👋
 
-Full-Stack Engineer · React & Next.js · Node.js · AWS — based in Wiesbaden, Germany (open to relocation)
+**Full-Stack Developer · React & Next.js · Node.js (NestJS) · AWS** — based in Wiesbaden, Germany (open to relocation)
 
-I build and ship product features end-to-end — from database schema to UI — with production experience across React/Next.js frontends, SQL/NoSQL data layers, serverless deployment on Vercel, and hands-on AWS cloud infrastructure (S3, KMS, STS). My background in safety-critical software (medical devices, industrial X-ray systems) brings a reliability-first mindset to fast-moving product work.
+Full-Stack Developer (React, Next.js, NestJS, TypeScript) with an M.Sc. in Secure and Dependable IT Systems. I built **pciNow**'s platform end-to-end, including RBAC, AWS S3/KMS encrypted storage, CI/CD and Vercel deployment, after working on safety-critical X-ray and medical-device software at Cloudflight. I am looking for a full-stack or frontend role in a product team where reliability and security matter.
 
-- 🏗️ Currently building **pciNow**'s digital platform end-to-end — architecture, APIs, UI, and deployment
+- 🏗️ Built **pciNow**'s digital platform end-to-end — architecture, APIs, UI, and deployment
 - 🎓 M.Sc. Information and Communication Systems (Secure and Dependable IT Systems) — TUHH Hamburg
 - 🎓 B.E. Electrical Engineering — NED University Karachi
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
@@ -14,24 +14,26 @@ I build and ship product features end-to-end — from database schema to UI — 
 
 ## 🛠️ Tech Stack
 
-**Frontend** React · Next.js · TypeScript · RxJS · Redux · Zustand · WebSocket
-**Backend** Node.js (NestJS, Express) · REST API design · Prisma · Role-based authorization
-**Cloud & Serverless** Vercel · Google Cloud / Firebase (Firestore, Filestore) · AWS (S3, KMS, STS) · Docker
-**Databases** PostgreSQL · MongoDB · Google Firestore
-**Testing & Tools** Jest · Playwright · Cypress · Git · GitHub Actions CI/CD · Figma
+| | |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · RxJS · Redux · Zustand · WebSocket |
+| **Backend** | Node.js (NestJS, Express) · REST API design · Prisma · Role-based authorization |
+| **Cloud & Serverless** | Vercel · Firebase · AWS (S3, KMS, STS) · Docker |
+| **Databases** | PostgreSQL · MongoDB · Google Firestore |
+| **Testing & Tools** | Jest · Playwright · Cypress · Git · GitHub Actions CI/CD · Figma |
 
 ---
 
 ## 💼 Experience
 
-**Full-Stack Developer (Part-time)** — pciNow GmbH, Frankfurt · *Nov 2025 – Aug 2026*
-Architected and delivered pciNow's digital platform from the ground up using Next.js, NestJS, and MongoDB — including a multi-level RBAC system that cut refactoring cycles by ~30%, a secure AWS S3/KMS file-storage architecture with 100% data-at-rest encryption compliance, and automated CI/CD pipelines with integrated security scanning for serverless Vercel deployments.
+**Full-Stack Developer** — pciNow GmbH, Frankfurt · *Nov 2025 – Aug 2026*
+Architected the platform from the ground up, owning system design, technology decisions, full-stack implementation, and production deployment. Built secure JWT authentication with HTTP-only, Secure, and SameSite cookies and multi-level RBAC (4 roles, 45 permissions), designed encrypted file storage with AWS S3 and KMS, set up CI/CD pipelines with integrated security scanning for serverless Vercel deployments, and cut app startup time from 4.5s to 2.0s (~56%) through MongoDB aggregation, indexing, parallel requests, and background loading.
 
-**Full-Stack Developer (Part-time)** — Cloudflight GmbH, Hamburg · *Aug 2022 – Mar 2025*
-Built a real-time monitoring solution (WebSocket + RxJS) for proactive fault detection on safety-critical industrial X-ray HMI systems, resolved 20+ critical bugs reducing production crashes, cut end-to-end test execution time by ~20%, and mentored interns on Git/React workflows.
+**Full-Stack Developer (Werkstudent)** — Cloudflight GmbH, Hamburg · *Aug 2022 – Mar 2025*
+Built 3 major HMI capabilities for safety-critical industrial X-ray systems (web-based machine terminal, real-time monitoring with WebSocket/RxJS, software/configuration update mechanism) and fixed 20+ critical production bugs. Restructured 120+ automated tests for a medical-device application into reusable Page Object and service layers, reduced E2E test execution time from 155 to 120 minutes (~23%), and mentored 2 interns on Git and React.
 
 **Frontend Developer (Internship)** — Line Up Handels GmbH, Hamburg · *Apr 2022 – Aug 2022*
-Built interactive business dashboards with reusable React components integrated with Google Firestore/Filestore, and implemented a Kanban-style task management board.
+Built interactive business dashboards with reusable React components and Firebase, and implemented a Kanban-style task management board.
 
 ---
 
@@ -46,9 +48,6 @@ Built interactive business dashboards with reusable React components integrated 
 | [**Todo-App**](https://github.com/azeemabrarkhan/Todo-App) | Fullstack Todo app with auth & task management, fully containerized with Docker Compose | Node.js, Express, PostgreSQL, React |
 
 ---
-
-## 🏆 Achievements
-🦈 Pull Shark &nbsp;&nbsp; 🎲 YOLO
 
 ## 📫 Connect
 [GitHub](https://github.com/azeemabrarkhan) · azeemabrarkhan@gmail.com
