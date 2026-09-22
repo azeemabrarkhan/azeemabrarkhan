@@ -1,6 +1,6 @@
 # Hi, I'm Azeem Abrar Khan 👋
 
-**Full-Stack Developer · React & Next.js · Node.js (NestJS) · AWS** - based in Wiesbaden, Germany (open to relocation)
+**Full-Stack Developer · React & Next.js · Node.js (NestJS) · AWS** - based in Frankfurt, Germany (open to relocation)
 
 Full-Stack Developer (React, Next.js, NestJS, TypeScript) with an M.Sc. in Secure and Dependable IT Systems. I built **pciNow**'s platform end-to-end, including RBAC, AWS S3/KMS encrypted storage, CI/CD and Vercel deployment, after working on safety-critical X-ray and medical-device software at Cloudflight. I am looking for a full-stack or frontend role in a product team where reliability and security matter.
 
